@@ -3,7 +3,7 @@ THIS IS HOW I MADE A BEGINNING RESTUARENT WEBSITE
 # Preriquisites
 Need to have a basic knowledge about HTML,CSS and JavaScript.
 # Website link to check it out:
-https://github.com/Aiyush-Banerjee/RESTUARENT.github.io
+https://aiyush-banerjee.github.io/RESTUARENT.github.io/
 
 # Screenshots
 ![2022-07-16](https://user-images.githubusercontent.com/104263167/179350889-64a5e91c-1f02-4195-855b-4a624bada08b.png)
